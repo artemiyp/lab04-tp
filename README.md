@@ -10,7 +10,7 @@
 Создайте `CMakeList.txt` в директории [formatter_lib](formatter_lib),
 с помощью которого можно будет собирать статическую библиотеку *formatter*.
 ```sh
-$ cat formatter.cpp <<EOF
+$ cat CMakeLists.txt <<EOF
 #include "formatter.h"
 
 std::string formatter(const std::string& message)
