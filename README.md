@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/artemiyp/lab04-tp.svg?branch=master)](https://travis-ci.com/artemiyp/lab04-tp)
 ## Homework III
 
 <a href="https://yandex.ru/efir/?stream_id=vjKAlxJ0UQrs"><img src="https://raw.githubusercontent.com/tp-labs/lab03/master/preview.png" width="640"/></a>
